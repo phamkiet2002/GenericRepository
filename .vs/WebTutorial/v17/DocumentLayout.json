@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\genericrepository\\testgenericrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\genericrepository\\testgenericrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\genericrepository\\stockgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\genericrepository\\stockgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\dtos\\account\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\dtos\\account\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\migrations\\20240419040425_indentify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\migrations\\20240419040425_indentify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|c:\\users\\phamt\\desktop\\dotnetcore\\webtutorial\\webtutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED6AC20F-B70A-4512-BFE8-FDCAA80B4678}|WebTutorial\\WebTutorial.csproj|solutionrelative:webtutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 626,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "WebTutorial\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:29:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestGenericRepositoryController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\TestGenericRepositoryController.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\GenericRepository\\TestGenericRepositoryController.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\TestGenericRepositoryController.cs",
+              "RelativeToolTip": "WebTutorial\\GenericRepository\\TestGenericRepositoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:50:41.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "WebTutorial\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:50:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "WebTutorial\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:50:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "WebTutorial\\Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:29:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebTutorial\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:22:16.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebTutorial\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:57:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\StockGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\GenericRepository\\StockGenericRepository.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\GenericRepository\\StockGenericRepository.cs",
+              "RelativeToolTip": "WebTutorial\\GenericRepository\\StockGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:57:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Dtos\\Account\\AccountDto.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Dtos\\Account\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Dtos\\Account\\AccountDto.cs",
+              "RelativeToolTip": "WebTutorial\\Dtos\\Account\\AccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:53:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Model\\AppUser.cs",
+              "RelativeToolTip": "WebTutorial\\Model\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:06:56.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240419040425_Indentify.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Migrations\\20240419040425_Indentify.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Migrations\\20240419040425_Indentify.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Migrations\\20240419040425_Indentify.cs",
+              "RelativeToolTip": "WebTutorial\\Migrations\\20240419040425_Indentify.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:04:25.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTutorial\\appsettings.json",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\appsettings.json",
+              "RelativeToolTip": "WebTutorial\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T03:36:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "WebTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\phamt\\Desktop\\dotNetCore\\WebTutorial\\WebTutorial\\Program.cs",
+              "RelativeToolTip": "WebTutorial\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:59:15.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
